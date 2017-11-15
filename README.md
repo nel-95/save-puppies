@@ -1,2 +1,2 @@
-# save-puppies
-romanian pups need your help!
+# puppy-project
+let's get it going!
