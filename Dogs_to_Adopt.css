@@ -224,6 +224,16 @@ div.FB-logo {
 	color: #666666;
 }
 
+.homebutton a:hover {
+	text-decoration: none;
+	color: #666666;
+}
+
+.applybutton a:hover {
+	text-decoration: none;
+	color: #666666;
+}
+
 .FB-logo a {
 	color: #666666;
 }
