@@ -40,10 +40,10 @@ a.titlelink {
 }
 
 nav {
-	width: 80%;
-	height: 9%;
+	width: 50%;
+	height: 5%;
 	position: relative;
-	left: 26%;
+	left: 37%;
 	bottom: 26px;
 	margin-top: 10px;
 	margin-bottom: 10px;
@@ -54,11 +54,11 @@ nav a {
 	font-weight: 500;
 	font-size: 18px;
 	letter-spacing: 1px;
-	padding: 26px 120px;
+	padding: 20px 50px;
 	text-decoration: none;
 	position: relative;
 	bottom: 14px;
-	height: 40px;
+	height: 30px;
 	color: #666666;
 }
 
