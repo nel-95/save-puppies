@@ -1,0 +1,97 @@
+/* Stylesheet for Apply */
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: right;
+    text-decoration: none;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.first-block {
+	background-image: url("seapup.jpg");
+	background-size:cover;
+	background-repeat: no-repeat;
+	max-width: 100%;
+}
+ .banner {
+	background-image: url(threepups.jpg);
+	background-size:cover;
+	background-position:;
+	width:100% ;
+	height:800px;
+	background-position:;
+	background-repeat: no-repeat;
+	min-height: 100%;
+	min-width: 100%;
+	}
+
+h1 {
+	color:black;
+	font-size:50px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-align:center;
+	padding:0px 200px 40px 200px;
+	font-family: Quicksand;
+
+}
+.nav a {
+	text-decoration: none;
+	padding: 50px 0px;
+	text-transform: lowercase;
+	font-family: Quicksand;
+	color: white;
+	border: 2px solid black;
+	border-radius: 3px;
+	display: inline-block;
+	margin: 0px 50px;
+	margin-bottom:0px;
+	padding: 14px;
+	cursor: pointer;
+}
+
+.nav a:hover {
+	color:darkgray;
+ }
+ 
+.nav {
+	text-align:center;
+}
+.content{
+	font-family:"Open Sans";
+}
+.frame {
+	align-content:center;
+}
+
+.content {
+	width: 40%;
+	text-align:center;
+	color:white;
+	font-size:20px;
+	margin-left: 30%;
+	margin-right: 28%;
+	margin-top: 300px;
+	margin-bottom:0px;
+	background-color: hsl(120, 0%, 60%);
+	padding: 15px;
+	line-height: 2.5;
+	opacity:50%;
+	border-radius:3%;
+
+}
+

@@ -1,0 +1,148 @@
+/* Stylesheet for index */
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: right;
+    text-decoration: none;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.first-block {
+	background-image: url("seapup.jpg");
+	background-size:cover;
+	background-repeat: no-repeat;
+	max-width: 100%;
+}
+
+h1 {
+	color:gray;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-align:center;
+	padding:70px 200px;
+	font-family: Quicksand;
+	font-size: 50px;
+}
+
+.nav a {
+	text-decoration: none;
+	padding: 50px 200px;
+	text-transform: lowercase;
+	font-family: Quicksand;
+	font-size: 20px;
+	color: white;
+	border: 2px solid darkgray;
+	border-radius: 3px;
+	display: inline-block;
+	margin: 20px 50px;
+	margin-bottom:450px;
+	padding: 14px;
+	cursor: pointer;
+}
+
+.nav a:hover {
+	background-color: :darkgray;
+	border:2px solid darkgray;
+	color:white;
+	cursor: pointer;
+}
+
+.nav {
+	text-align:center;
+}
+
+.second-block {
+	background-color:whitesmoke;
+	width:100%;
+	height: 200px;
+	padding: 20px 20px;
+	margin-left:60px;
+}
+h2 {
+	color:gray;
+	font-family: Lato;
+	text-align:center;
+	font-size: 40px;
+	margin-top: 80px;
+	margin-right: 10%;
+
+
+}
+
+h3 {
+	color:gray;
+	font-family: Lato ;
+	font-size:30px;
+	text-align:center;
+	margin:30px;
+	padding: 10px;
+	border: solid 2px gray;
+
+}
+
+.second-block p {
+	font-family: "Open Sans";
+	font-size: 30px;
+	color:gray;
+	padding: 50px 20px;
+	margin-bottom: 100px;
+	margin-left: 50px;
+	text-align:center;
+	line-height: 2.5;
+	width: 80%;
+	position:relative;
+}
+
+.donateblock {
+	width:50%;
+	float: left;
+}
+.adoptblock {
+	width:50%;
+	float: right;
+}
+.imgpup {
+	margin-top: 300px;
+	opacity:70%;
+}
+.imgpup img {
+	width: 100%;
+	height:800px;
+	margin: 100px 30px 30px 0px;
+	float:left;
+
+}
+
+.third-block a {
+	text-decoration: none;
+	color:gray;
+}
+.third-block p {
+	padding: 20px;
+	line-height: 2;
+	font-family: Open Sans;
+	font-size: 20px;
+}
+
+.img img {
+	height: 800px;
+	width: 100%;
+	position:relative;
+}
+.contact h2 {
+	padding:20px;
+}
+}
